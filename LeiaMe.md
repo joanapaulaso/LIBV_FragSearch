@@ -1,7 +1,7 @@
 # LIBV_FragSearch
 These tools were created by Gabriel Damato, a Computer Science undergrad, as a member of Plants Biology Integrated Laboratory, from Rio de Janeiro State Federal University.
 
-This is a set of tool for dealing with MSMS data. Instructions for Java are in Portuguese. The VBA steps are pretty much intuitive.
+This is a set of tools for dealing with MSMS data. Instructions for Java are in Portuguese. The VBA steps are pretty much intuitive.
 
 FragSearch 01 (Java) Leia-me: 
 
